@@ -9,7 +9,7 @@ html {
 }
 
 .bg_hero {
-    background-image: url(/img/background.gif);
+    background-image: url(/background.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -42,7 +42,7 @@ html {
 }
 
 .backgroundLogin {
-    background-image: url(/img/fondologin.jpg);
+    background-image: url(/fondologin.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -262,7 +262,7 @@ padding-top: 5px;
     min-width: 1200px;
     height: 1000px;
     margin: 0 auto;
-    background-image: url(/img/fondoo45.jpg);
+    background-image: url(/fondoo45.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -495,7 +495,7 @@ p {
 
 .font img {
 
-    background-image: url(/img/darko.jpg);
+    background-image: url(/darko.jpg);
     width: 800px;
 
 }
@@ -654,7 +654,7 @@ button:hover {
    flex-direction: column;
    align-items: center;
    
-   background-image: url(/img/fondoo45.jpg);
+   background-image: url/fondoo45.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    padding-bottom: 50px;
@@ -898,7 +898,7 @@ body {
     min-width: 1200px;
     height: 1200px;
     margin: 0 auto;
-    background-image: url(/img/fondologin.jpg);
+    background-image: url(/fondologin.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
